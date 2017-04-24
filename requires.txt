@@ -1,0 +1,4 @@
+chardet==3.0.2
+six==1.10.0
+urllib3==1.20
+workerpool==0.9.4
